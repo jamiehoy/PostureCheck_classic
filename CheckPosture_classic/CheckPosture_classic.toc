@@ -1,0 +1,5 @@
+## Interface: 30400
+## Title: Check Posture Classic
+## Notes: Alerts you to check your posture every 15 minutes.
+## Author: Jamie Hoy <zelgados@icloud.com>
+core.lua
